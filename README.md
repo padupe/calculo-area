@@ -2,7 +2,6 @@
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Padupe-Go" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
-    <img align="center" alt="Padupe-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
 _Desenvolvido durante o Curso de Golang do Prof. Leonardo_
