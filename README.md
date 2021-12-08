@@ -25,3 +25,5 @@ Rode em seu Terminal:
 ```bash
 $ go get -u github.com/padupe/calculo-area
 ```
+
+lalalala
